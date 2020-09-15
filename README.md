@@ -169,6 +169,8 @@ assistidas pelo serviço de *streaming* da Netflix. Nos Estados Unidos,
 somente em 2019, **FRIENDS** foi destronada do topo de popularidade por
 “The Office”.
 
+![](images/giphy.gif)
+
 # Refêrencias:
 
 [FRIENDS Central](https://friends.fandom.com/wiki/Friends_Wiki)
@@ -177,8 +179,6 @@ somente em 2019, **FRIENDS** foi destronada do topo de popularidade por
 
 [FRIENDS Nielsen Ratings
 Archive](http://newmusicandmore.tripod.com/friendsratings.html)
-
-[KAGGLE](https://www.kaggle.com)
 
 [TOP 10: Os 10 episódios mais engraçados de
 FRIENDS](https://comentaseries.wordpress.com/2009/07/20/top-10-os-10-episodios-mais-engracados-de-friends/)
@@ -189,5 +189,3 @@ espectadores](https://noticias.uol.com.br/ultnot/2004/05/07/ult1817u1023.jhtm)
 [UOL Entretenimento - The Office ultrapassa Friends como a série mais
 vista da Netflix nos
 EUA](https://entretenimento.uol.com.br/noticias/redacao/2019/10/29/the-office-ultrapassa-friends-como-a-serie-mais-vista-da-netflix-nos-eua.htm)
-
-![](images/giphy.gif)
