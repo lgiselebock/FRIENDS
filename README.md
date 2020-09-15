@@ -1,7 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<center>
+
 # Aquele com a análise de dados de
+
+</center>
 
 ![](images/Friends_logo.svg)
 
@@ -157,7 +161,7 @@ relacionamento entre Chandler e Mônica) e, durante os 10 anos, chegaram
 a se casar em Las Vegas, se divorciaram logo em seguida e também tiveram
 uma filha, mesmo permanecendo separados.
 
-![](docs/histogram_estrelas.png)
+![](docs/histogram_estrelas.png):
 
 # Conclusão:
 
@@ -169,7 +173,11 @@ assistidas pelo serviço de *streaming* da Netflix. Nos Estados Unidos,
 somente em 2019, **FRIENDS** foi destronada do topo de popularidade por
 “The Office”.
 
+<center>
+
 ![](images/giphy.gif)
+
+</center>
 
 # Refêrencias:
 

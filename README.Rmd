@@ -10,8 +10,9 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-
+<center>
 # Aquele com a análise de dados de 
+</center>
 ![](images/Friends_logo.svg)
 
 **FRIENDS** é um dos meus seriados fevoritos (*provavelmente* o favorito) e tenho certeza que não sou a única que assisti mais de uma, duas, três...vezes. Ela foi criada por David Crane e Marta Kauffman e foi apresentada pela rede de televisão americana NBC entre 22 de setembro de 1994 e 6 de maio de 2004, com um total de 236 episódios. A série girava em torno da vida de um grupo de seis amigos que viviam em Nova York City: Chandler Bing, Joey Tribbiani, Mônica Geller, Phoebe Buffay, Rachel Green e Ross Geller. As filmagens ocorriam no Warner Bros Studios, em Burbank, na Califórnia, em frente a uma plateia ao vivo. Dentre os vários prêmios recebidos pela série estão: seis Prêmios Emmy, um Globo de Ouro, dois SAG Awards e 56 outros prêmios com 152 nomeações. Em 2002, a *TV Guide*, revista especializada em televisão, divulgou uma lista com os 50 melhores programas de televisão de todos os tempos, e **FRIENDS** estava em 21º lugar. O programa já foi transmitido para dezenas de países e as reprises de seus episódios continuam com boas audiências.
@@ -23,6 +24,7 @@ Neste breve trabalho temos o objetivo de analisar os índices de audiência do s
 Sucesso absoluto na metade final dos anos 1990 e início dos anos 2000, e com uma legião de fãs até os dias atuais, **FRIENDS** estreou no dia 22 de setembro de 1994 e atraiu 21,5 milhões de espectadores. Ao longo de seus 10 anos de exibição no horário nobre da TV americana, manteve uma audiência média de 25,4 milhões de telespectadores por episódio, se classificando consistentemente entre as 10 séries mais assistidas na televisão americana. 
 
 O gráfico a seguir demonstra a audiência (em milhões de espectadores) para cada episódio da série. É possível observar que 4 episódios se destacam bastante, eles serão apresentados mais detalhadamente no próximo gráfico.
+
 
 ![](docs/audiencia_coluna.png)
 
@@ -51,14 +53,17 @@ O gráfico acima realça os 10 episódios - dentre o universo de 236 - com melho
 
 O histograma abaixo revela a frequência das estrelas dadas pelos usuários do IMDb. Há uma predominância na quantidade de estrelas entre 8.0 e 9.0. A maioria das notas abaixo de 8.0 foram dadas para episódios que continham, basicamente, *flasbacks* de episódios passados. Por outro lado, a predominância de episódios com notas acima de 9.0 está relacionada a episódios especiais de *Thanksgiving* (o dia de Ação de Graças americado) ou com eventos importante para a dupla 'Ross & Rachel'. O casal que têm sua história de amor iniciada ainda na primeira temporada, quando Ross se mostrava apaixonado por Rachel. Entre idas e vindas, tornaram-se o casal principal da série (até o relacionamento entre Chandler e Mônica) e, durante os 10 anos, chegaram a se casar em Las Vegas, se divorciaram logo em seguida e também tiveram uma filha, mesmo permanecendo separados.
 
-![](docs/histogram_estrelas.png)
+![](docs/histogram_estrelas.png):
 
 # Conclusão:
 
 **FRIENDS** é um seriado de 26 anos de idade, que terminou há mais de 15. Mesmo depois de tanto tempo, a série permanece com um público (antigo e recente) fiel às suas origens. Ainda hoje, no Brasil e em vários outros países, a história dos seis amigos de NYC é uma das mais assistidas pelo serviço de *streaming* da Netflix. Nos Estados Unidos, somente em 2019, **FRIENDS** foi destronada do topo de popularidade por "The Office".
 
+<center>
 
 ![](images/giphy.gif)
+
+</center>
 
 # Refêrencias:
 
