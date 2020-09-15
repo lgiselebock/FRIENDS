@@ -197,3 +197,7 @@ espectadores](https://noticias.uol.com.br/ultnot/2004/05/07/ult1817u1023.jhtm)
 [UOL Entretenimento - The Office ultrapassa Friends como a série mais
 vista da Netflix nos
 EUA](https://entretenimento.uol.com.br/noticias/redacao/2019/10/29/the-office-ultrapassa-friends-como-a-serie-mais-vista-da-netflix-nos-eua.htm)
+
+#### Autor:
+
+[Luísa Gisele Böck](https://twitter.com/lgiselebock)
