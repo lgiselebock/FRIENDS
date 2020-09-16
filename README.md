@@ -32,7 +32,7 @@ as temporadas e episódios avaliados segundo a base do IMDb. Para essa
 análise, serão utilizados os dados colhidos da base IMDb e os gráficos
 criados através da Linguagem R.
 
-# Audiência:
+# Audiência
 
 Sucesso absoluto na metade final dos anos 1990 e início dos anos 2000, e
 com uma legião de fãs até os dias atuais, **FRIENDS** estreou no dia 22
@@ -58,19 +58,21 @@ Where Rachel Has a Baby”**, season finale da 8ª temporada, com 34,91
 milhões de telespectadores, e **“The One Where No One Proposes”**,
 season premiere da 9ª temporada, com 34,01 milhões de telespectadores.
 
-![](docs/top10_episodios_telespectadores.png) **“The One After the
-Superbowl”**, traduzido como “Aquele Depois do Superbowl”, foi exibido
-logo após o *‘Superbowl XXX’* no dia 28 de janeiro de 1996. É o episódio
-mais assistido da série, com 52,9 milhões de espectadores. Escrito por
-Jeffrey Astrof, Mike Sikowitz e Michael Borkow, mostra o reencontro
-entre Ross e Marcel (seu macaco de estimação que se tornou um astro de
-Hollywood), o encontro nada bem-sucedido entre Chandler e uma antiga
-colega de classe; a relação entre Joey e uma fã atraente (mas
-mentalmente instável), Phoebe é convidada a cantar para crianças em uma
-biblioteca e, por fim, a competição entre Rachel e Monica para conseguir
-a atenção de Jean-Claude Van Damme. Por ser um episódio especial, contou
-com a presença de astros do cinema americano como Julia Roberts, Brooke
-Shields, Dan Castellaneta, Chris Isaak e Jean Claude Van-Damme.
+![](docs/top10_episodios_telespectadores.png)
+
+**“The One After the Superbowl”**, traduzido como “Aquele Depois do
+Superbowl”, foi exibido logo após o *‘Superbowl XXX’* no dia 28 de
+janeiro de 1996. É o episódio mais assistido da série, com 52,9 milhões
+de espectadores. Escrito por Jeffrey Astrof, Mike Sikowitz e Michael
+Borkow, mostra o reencontro entre Ross e Marcel (seu macaco de estimação
+que se tornou um astro de Hollywood), o encontro nada bem-sucedido entre
+Chandler e uma antiga colega de classe; a relação entre Joey e uma fã
+atraente (mas mentalmente instável), Phoebe é convidada a cantar para
+crianças em uma biblioteca e, por fim, a competição entre Rachel e
+Monica para conseguir a atenção de Jean-Claude Van Damme. Por ser um
+episódio especial, contou com a presença de astros do cinema americano
+como Julia Roberts, Brooke Shields, Dan Castellaneta, Chris Isaak e Jean
+Claude Van-Damme.
 
 **“The Last One”**, traduzido para o português como “O último”, é, como
 o nome já diz, o último episódio da série. Exibido no dia 06 de maio de
@@ -102,15 +104,16 @@ entre as 10 temporadas da série. Enquanto a 9ª e a 1ª foram
 classificados como a pior e a segunda pior, nessa ordem. O gráfico
 abaixo apresenta a avaliação média para todas as temporadas.
 
-![](docs/media_estrelas_imdb_por_temporada.png) A temporada que recebeu
-melhor avaliação (10ª e última da série) obteve uma média de 8.68
-estrelas. Ela estreou em 2 de outubro de 2003 com o episódio **“The One
-After Joey and Rachel Kiss”** e, após 18 episódios, foi concluída com
-**“The Last One”** no dia 6 de maio de 2004. Nela, assistimos os
-desfechos dos seis personagens que acompanhamos ao longo dos últimos 10
-anos. Após negar na primeira vez, Phoebe aceita se casar com Mike.
-Chandler e Monica decidem aumentar a família e se mudar para os
-arredores de Nova York. Depois de diversas tentativas de engravidar,
+![](docs/media_estrelas_imdb_por_temporada.png)
+
+A temporada que recebeu melhor avaliação (10ª e última da série) obteve
+uma média de 8.68 estrelas. Ela estreou em 2 de outubro de 2003 com o
+episódio **“The One After Joey and Rachel Kiss”** e, após 18 episódios,
+foi concluída com **“The Last One”** no dia 6 de maio de 2004. Nela,
+assistimos os desfechos dos seis personagens que acompanhamos ao longo
+dos últimos 10 anos. Após negar na primeira vez, Phoebe aceita se casar
+com Mike. Chandler e Monica decidem aumentar a família e se mudar para
+os arredores de Nova York. Depois de diversas tentativas de engravidar,
 eles decidem adorar o bebê de uma mulher que está grávida, mas que não
 poderia criar a criança. No parto, descobrem que é um casal de gêmeos.
 Rachel consegue o emprego “dos sonhos” em Paris. Ross descobre que ainda
@@ -134,11 +137,12 @@ relacionamento público para os amigos e decidem se casar em uma viagem
 para Las Vegas, mas desistem depois de encontrarem Ross e Rachel,
 bêbados, recém-casados na mesma capela.
 
-![](docs/top10_episodios_estrelas.png) O gráfico acima realça os 10
-episódios - dentre o universo de 236 - com melhor avaliação segundo o
-IMDb, todos com mais de 9.2 estrelas. O destaque maior estão nos títulos
-**“The One Where Everybody Finds Out”** e **“The Last One: Part 2”**,
-ambas com 9.7 estrelas.
+![](docs/top10_episodios_estrelas.png)
+
+O gráfico acima realça os 10 episódios - dentre o universo de 236 - com
+melhor avaliação segundo o IMDb, todos com mais de 9.2 estrelas. O
+destaque maior estão nos títulos **“The One Where Everybody Finds Out”**
+e **“The Last One: Part 2”**, ambas com 9.7 estrelas.
 
 **“The One Where Everybody Finds Out”** (em português: “Aquele em que
 Todos Descobrem”), é o 14º episódio da 5ª temporada e foi exibido no dia
@@ -163,7 +167,7 @@ uma filha, mesmo permanecendo separados.
 
 ![](docs/histogram_estrelas.png):
 
-# Conclusão:
+# Conclusão
 
 **FRIENDS** é um seriado de 26 anos de idade, que terminou há mais de
 15. Mesmo depois de tanto tempo, a série permanece com um público
@@ -179,7 +183,7 @@ somente em 2019, **FRIENDS** foi destronada do topo de popularidade por
 
 </center>
 
-# Refêrencias:
+# Refêrencias
 
 [FRIENDS Central](https://friends.fandom.com/wiki/Friends_Wiki)
 
@@ -198,6 +202,6 @@ espectadores](https://noticias.uol.com.br/ultnot/2004/05/07/ult1817u1023.jhtm)
 vista da Netflix nos
 EUA](https://entretenimento.uol.com.br/noticias/redacao/2019/10/29/the-office-ultrapassa-friends-como-a-serie-mais-vista-da-netflix-nos-eua.htm)
 
-#### Autor:
+#### Autor
 
 [Luísa Gisele Böck](https://twitter.com/lgiselebock)
