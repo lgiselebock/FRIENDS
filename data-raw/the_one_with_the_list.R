@@ -7,6 +7,8 @@ direcao <- friends %>%
                names_to = "diretor_num",
                values_to = "diretor_nome")
 
+
+
 roteiro <- friends %>%
   separate(col = roteiro,
            into = c("roteirista1", "roteirista2", "roteirista3", "roteirista4"),
@@ -15,3 +17,6 @@ roteiro <- friends %>%
   pivot_longer(cols = starts_with("roteirista"),
                names_to = "roteirista_num",
                values_to = "roteirista_nome")
+
+
+

@@ -1,13 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<center>
+<div style="text-align: center">
 
 # Aquele com a análise de dados de
 
-</center>
-
 ![](images/Friends_logo.svg)
+
+<div/>
+
+<div style="text-align: justify">
 
 **FRIENDS** é um dos meus seriados fevoritos (*provavelmente* o
 favorito) e tenho certeza que não sou a única que assisti mais de uma,
@@ -57,6 +59,8 @@ portanto, são contabilizados como 4 episódios. Menção para **“The One
 Where Rachel Has a Baby”**, season finale da 8ª temporada, com 34,91
 milhões de telespectadores, e **“The One Where No One Proposes”**,
 season premiere da 9ª temporada, com 34,01 milhões de telespectadores.
+
+</p>
 
 ![](docs/top10_episodios_telespectadores.png)
 
@@ -177,11 +181,15 @@ assistidas pelo serviço de *streaming* da Netflix. Nos Estados Unidos,
 somente em 2019, **FRIENDS** foi destronada do topo de popularidade por
 “The Office”.
 
-<center>
+<div/>
+
+<div style="text-align: center">
 
 ![](images/giphy.gif)
 
-</center>
+<div/>
+
+<div style="text-align: justify">
 
 # Refêrencias
 
@@ -205,3 +213,5 @@ EUA](https://entretenimento.uol.com.br/noticias/redacao/2019/10/29/the-office-ul
 #### Autor
 
 [Luísa Gisele Böck](https://twitter.com/lgiselebock)
+
+<div/>
